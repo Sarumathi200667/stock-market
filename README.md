@@ -1,5 +1,3 @@
-# 📈 Stock Market Dashboard
-
 An interactive stock market dashboard built with **Streamlit**, **yfinance**, and **Plotly**.
 
 ## Features
